@@ -3,7 +3,7 @@ Slowloris attack over tor network.
 
 Kills apache 1.X with 128, apache 2.X or IIS with 256 threads.
 
-**Not effective on nginx servers.**
+**Warning: Requires to be tor installed and listening on port 9150 , Not effective on nginx servers.**
 
 Cloning from the repository:
 ```
